@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UppInt-Conditionals/static/css/main.7bba562b.css",
+    "main.js": "/UppInt-Conditionals/static/js/main.9be8e472.js",
+    "index.html": "/UppInt-Conditionals/index.html",
+    "main.7bba562b.css.map": "/UppInt-Conditionals/static/css/main.7bba562b.css.map",
+    "main.9be8e472.js.map": "/UppInt-Conditionals/static/js/main.9be8e472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bba562b.css",
+    "static/js/main.9be8e472.js"
+  ]
+}
